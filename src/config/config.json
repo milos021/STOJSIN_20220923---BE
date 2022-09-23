@@ -1,0 +1,16 @@
+       {
+        "development":{
+            "username":"root",
+            "password":"passowrd",
+            "database":"video-library",
+            "host":"127.0.0.1",
+            "dialect": "mysql"
+        },
+          "production": {
+            "username":"root",
+            "password":"passowrd",
+            "database":"video-library",
+            "host":"127.0.0.1",
+            "dialect": "mysql"
+          }
+    }
